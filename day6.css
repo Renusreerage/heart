@@ -1,0 +1,28 @@
+
+ #circle{
+    border-radius: 50%;
+    height: 150px;
+    width: 150px;
+    background-color:red;
+    margin-left: 300px;
+    margin-top: 200px;
+}
+#circle1{
+    border-radius: 50%;
+    height: 150px;
+    width: 150px;
+    background-color:red;
+    margin-left: 200px;
+    margin-top: -150px; 
+    position: relative;
+} 
+#circle2{
+    background-color: red;
+    transform: rotate(45deg);
+    width: 140px;
+    height: 140px;
+    margin-left: 255px;
+    margin-top: -89px;
+    position: relative;
+
+} 
